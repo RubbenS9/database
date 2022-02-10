@@ -71,63 +71,6 @@
             }
           ],
           "filters": {}
-        },
-        {
-          "id": 2,
-          "name": "Solo seur",
-          "columns": [
-            {
-              "dataField": "id",
-              "hidden": false
-            },
-            {
-              "dataField": "date",
-              "hidden": false
-            },
-            {
-              "dataField": "recipient",
-              "hidden": true
-            },
-            {
-              "dataField": "reference",
-              "hidden": true
-            },
-            {
-              "dataField": "sellingChannel",
-              "hidden": true
-            },
-            {
-              "dataField": "paymentMethod",
-              "hidden": true
-            },
-            {
-              "dataField": "carrier",
-              "hidden": false
-            },
-            {
-              "dataField": "dropshipping",
-              "hidden": false
-            },
-            {
-              "dataField": "total",
-              "hidden": false
-            },
-            {
-              "dataField": "status",
-              "hidden": false
-            },
-            {
-              "dataField": "expeditionDate",
-              "hidden": true
-            },
-            {
-              "dataField": "totalProducts",
-              "hidden": true
-            }
-          ],
-          "filters": {
-            "carrier": "seur"
-          }
         }
       ]
     }
